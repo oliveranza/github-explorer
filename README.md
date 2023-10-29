@@ -1,6 +1,6 @@
 # GitHub Explorer
 
-O GitHub Explorer is a React application that consumes GitHub API and allows users to search and view information about GitHub repositories. The app consists of two main pages: a search page where users can add repositories to the list, and a details page that displays detailed information about the repositories and their issues.
+The GitHub Explorer is a React application that consumes GitHub API and allows users to search and view information about GitHub repositories. The app consists of two main pages: a search page where users can add repositories to the list, and a details page that displays detailed information about the repositories and their issues.
 
 ## Screenshots
 
@@ -59,7 +59,7 @@ To use the GitHub Explorer, follow these steps:
 
 ## Directory Structure
 
-he project directory structure is organized as follows:
+The project directory structure is organized as follows:
 
 ```typescript
 github-explorer/
@@ -122,7 +122,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Contribution
 
-You can contribute to the GitHub Repository Viewer by opening pull requests or reporting issues. Follow these steps to contribute:
+You can contribute to the GitHub Explorer by opening pull requests or reporting issues. Follow these steps to contribute:
 
 1. Fork the repository.
 2. Create a branch for your contribution.
